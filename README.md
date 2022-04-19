@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abugraokkali&layout=compact&theme=tokyonight)
-
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=abugraokkali&show_icons=true&theme=tokyonight&hide=issues)
   
 <!--### Hi there 👋
